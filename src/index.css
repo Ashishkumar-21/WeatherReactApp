@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family:"Roboto", Arial !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: url("https://images.pexels.com/photos/2310713/pexels-photo-2310713.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1") !important;
+  background-repeat: no-repeat;
+  background-size: 100% !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* Fotter  */
+#footer{
+  margin-top: 5%;
+  text-align: center;   
+  margin-bottom: 1px;
+}
+.fa-brands-foot {
+  color: black;
+  margin: 2%;
+}

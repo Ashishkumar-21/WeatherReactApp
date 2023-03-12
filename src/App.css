@@ -1,0 +1,14 @@
+.container{
+  max-width:1080px;
+  margin:20px auto;
+
+}
+
+#cta{
+  font-family: Montserrat-black;
+  line-height: 1.5;
+  text-align: center;
+  margin-top: 20px;
+  background-color: rgb(239, 96, 120);
+  padding: 5% 15%;
+}
